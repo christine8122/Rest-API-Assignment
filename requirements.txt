@@ -1,0 +1,4 @@
+### requirements.txt (Complete - PROVIDED)
+fastapi
+uvicorn[standard]
+pydantic[email]
